@@ -1,0 +1,28 @@
+{
+  "name": "ai-path-finder",
+  "version": "1.0.0",
+  "description": "AI algorithm to find the shortest path in a 2D grid",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/ai-path-finder.git"
+  },
+  "keywords": [
+    "AI",
+    "Pathfinding",
+    "Algorithm",
+    "Node.js"
+  ],
+  "author": "Your Name <your.email@example.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yourusername/ai-path-finder/issues"
+  },
+  "homepage": "https://github.com/yourusername/ai-path-finder#readme",
+  "devDependencies": {
+    "jest": "^27.0.0"
+  }
+}
